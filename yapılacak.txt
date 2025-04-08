@@ -1,3 +1,6 @@
 yapılacak1
 yapılacak2
 yapılacak3
+
+
+yapılacaklar bitti
